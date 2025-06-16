@@ -25,7 +25,7 @@ pip install octmnist-classifier
 
 ## 🧠 Pretrained Models
 
-Download pretrained models from the **[Releases](https://github.com/yourusername/octmnist-classifier/releases)** page:
+Download pretrained models from the **[Releases](https://github.com/anandhkirupa/octmnist-classifier/releases)** page:
 
 - 'model_smote.pt'
 - 'model_smote_tomek.pt'
@@ -90,4 +90,4 @@ MIT License
 
 ---
 
-Maintained by [Kirupanandan Jagadeesan](https://www.linkedin.com/in/kirupanandan-jagadeesan/). Contributions and feedback welcome!
+Maintained by [Kirupanandan Jagadeesan](https://www.linkedin.com/in/kirupanandanjagadeesan/). Contributions and feedback welcome!
