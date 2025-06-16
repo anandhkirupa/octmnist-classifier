@@ -91,3 +91,11 @@ MIT License
 ---
 
 Maintained by [Kirupanandan Jagadeesan](https://www.linkedin.com/in/kirupanandanjagadeesan/). Contributions and feedback welcome!
+
+
+@article{yang2021medmnist,
+  title={MedMNIST Classification Decathlon: A Lightweight AutoML Benchmark for Medical Image Analysis},
+  author={Yang, Jiancheng and Shi, Yinan and Lin, Yucheng and et al.},
+  journal={arXiv preprint arXiv:2012.14591},
+  year={2021}
+}
